@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="887474d1-ee98-4f54-bd60-5542abfa9d56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jcommon_1_0_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jfreechart_1_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/so-who-is-counting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/AppStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/constants/CommonConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/controller/CountingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/model/ElementList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/model/ElementTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/model/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache$LazyHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/InterfazApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelProcessStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelResultSimulated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelTableResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelTableTotalResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/kentaurus/counting/AppStarterTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +56,7 @@
   <component name="ProjectId" id="1V2r4gdyjcAV8gJJz5lY3Zpy7nB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +77,8 @@
   </component>
   <component name="RunManager">
     <configuration name="AppStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.kentaurus.counting.AppStarter" />
       <module name="so-who-is-counting" />
       <extension name="coverage">
@@ -75,7 +119,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576461840706</updated>
-      <workItem from="1576461844607" duration="4523000" />
+      <workItem from="1576461844607" duration="4631000" />
+      <workItem from="1576468450556" duration="107000" />
     </task>
     <servers />
   </component>
@@ -83,37 +128,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="241" key="GridCell.Tab.0.bottom" timestamp="1576467216707">
+    <state x="418" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576468548493">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576467216707" />
-    <state width="1874" height="241" key="GridCell.Tab.0.center" timestamp="1576467216706">
+    <state x="418" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468548493" />
+    <state x="560" y="181" width="790" height="700" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576468589888">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576467216706" />
-    <state width="1874" height="241" key="GridCell.Tab.0.left" timestamp="1576467216706">
+    <state x="560" y="181" width="790" height="700" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468589888" />
+    <state x="804" y="423" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576468633282">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576467216706" />
-    <state width="1874" height="241" key="GridCell.Tab.0.right" timestamp="1576467216707">
+    <state x="804" y="423" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468633282" />
+    <state width="1874" height="301" key="GridCell.Tab.0.bottom" timestamp="1576468419163">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576467216707" />
-    <state width="1874" height="301" key="GridCell.Tab.1.bottom" timestamp="1576463087495">
+    <state width="1874" height="301" key="GridCell.Tab.0.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.0.center" timestamp="1576468419163">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576463087495" />
-    <state width="1874" height="301" key="GridCell.Tab.1.center" timestamp="1576463087495">
+    <state width="1874" height="301" key="GridCell.Tab.0.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.0.left" timestamp="1576468419163">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576463087495" />
-    <state width="1874" height="301" key="GridCell.Tab.1.left" timestamp="1576463087495">
+    <state width="1874" height="301" key="GridCell.Tab.0.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.0.right" timestamp="1576468419163">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576463087495" />
-    <state width="1874" height="301" key="GridCell.Tab.1.right" timestamp="1576463087495">
+    <state width="1874" height="301" key="GridCell.Tab.0.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.1.bottom" timestamp="1576468419163">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576463087495" />
+    <state width="1874" height="301" key="GridCell.Tab.1.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.1.center" timestamp="1576468419163">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.1.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.1.left" timestamp="1576468419163">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.1.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="301" key="GridCell.Tab.1.right" timestamp="1576468419163">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state width="1874" height="301" key="GridCell.Tab.1.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
   </component>
 </project>
