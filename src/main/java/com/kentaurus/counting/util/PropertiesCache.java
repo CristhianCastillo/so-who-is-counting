@@ -1,5 +1,7 @@
 package com.kentaurus.counting.util;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
@@ -9,8 +11,9 @@ public class PropertiesCache {
     private final Properties configProp = new Properties();
 
     private PropertiesCache() {
-        InputStream in = PropertiesCache.class.getResourceAsStream("messages.properties");
-//		InputStream in = this.getClass().getClassLoader().getResourceAsStream("./messages.properties");
+        System.out.println(new File(".").getAbsolutePath());
+//        InputStream in = PropertiesCache.class.getResourceAsStream("messages.properties");
+		InputStream in = this.getClass().getClassLoader().getResourceAsStream("./messages.properties");
         try {
 //			FileInputStream in = new FileInputStream("messages.properties");
             configProp.load(in);
