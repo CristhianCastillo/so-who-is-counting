@@ -1,38 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="cebcc4c9-a1ba-4ba9-8b5b-05db2ac8ed31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hungarian-method-client/src/main/java/com/hungarianmethod/constants/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hungarian-method-client/src/main/java/com/hungarianmethod/constants/AppConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <servers />
+  <component name="WindowStateProjectService">
+    <state x="182" y="112" width="1536" height="838" key="MergeDialog" timestamp="1577768450882">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="182" y="112" width="1536" height="838" key="MergeDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577768450882" />
+    <state x="666" y="239" width="578" height="584" key="MultipleFileMergeDialog" timestamp="1577768450884">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="666" y="239" width="578" height="584" key="MultipleFileMergeDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577768450884" />
   </component>
 </project>
