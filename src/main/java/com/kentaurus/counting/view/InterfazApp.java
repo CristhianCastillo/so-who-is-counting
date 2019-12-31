@@ -48,7 +48,7 @@ public class InterfazApp extends JFrame {
 	 * @throws ParseException
 	 */
 	public InterfazApp() throws ParseException {
-		this.setTitle(PropertiesCache.getInstance().getProperty("title.aplication"));
+		this.setTitle(PropertiesCache.TITLE_APPLICATION);
 		this.setLayout(new BorderLayout());
 		this.ctrl = new CountingController();
 		this.pnlEnter = new PanelEnter(this.ctrl);

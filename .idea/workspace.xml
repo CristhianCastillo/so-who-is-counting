@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887474d1-ee98-4f54-bd60-5542abfa9d56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/Tabla 1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Tabla 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+    <list default="true" id="887474d1-ee98-4f54-bd60-5542abfa9d56" name="Default Changelist" comment="Ajustes&#10;&#10;1. Se ajusta el archivo .gitignore.">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hungarian-method-client/src/main/java/com/hungarianmethod/constants/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hungarian-method-client/src/main/java/com/hungarianmethod/constants/AppConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/controller/CountingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/controller/CountingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/model/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/model/Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/util/PropertiesCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/util/PropertiesCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache$LazyHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache$LazyHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/util/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/InterfazApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/InterfazApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelEnter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelEnter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelResultSimulated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelResultSimulated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelTableResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelTableResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelTableTotalResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kentaurus/counting/view/PanelTableTotalResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/controller/CountingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/controller/CountingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/model/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/model/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache$LazyHolder.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/util/PropertiesCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/InterfazApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/InterfazApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelEnter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelResultSimulated.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelResultSimulated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelTableResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelTableResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelTableTotalResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kentaurus/counting/view/PanelTableTotalResult.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/so-who-is-counting-0.0.1-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/so-who-is-counting-0.0.1-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/so-who-is-counting-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/so-who-is-counting-0.0.1.jar" afterDir="false" />
     </list>
@@ -23,6 +46,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1V2r4gdyjcAV8gJJz5lY3Zpy7nB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,6 +61,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -49,7 +79,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AppStarter">
     <configuration name="AppStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -61,6 +91,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HungarianMethodClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hungarian-method-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hungarianmethod.HungarianMethodClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,15 +132,70 @@
       <updated>1576461840706</updated>
       <workItem from="1576461844607" duration="4631000" />
       <workItem from="1576468450556" duration="478000" />
-      <workItem from="1576469152323" duration="1137000" />
+      <workItem from="1576469152323" duration="1243000" />
+      <workItem from="1577756981305" duration="10753000" />
     </task>
+    <task id="LOCAL-00001" summary="Ajustes&#10;&#10;1. Se ajustan las contantes de la aplicacion.&#10;2. Se elimina la dependencia de archivo messages.properties, no es necesario.&#10;3. Se agrega banner.txt para el despliegue de la aplicación.&#10;4. Se ajusta la version de la aplicacion en el pom.xml.">
+      <created>1577764815606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577764815607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajustes&#10;&#10;1. Se ajusta el archivo .gitignore.">
+      <created>1577765200607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577765200607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ajustes&#10;&#10;1. Se ajustan las contantes de la aplicacion.&#10;2. Se elimina la dependencia de archivo messages.properties, no es necesario.&#10;3. Se agrega banner.txt para el despliegue de la aplicación.&#10;4. Se ajusta la version de la aplicacion en el pom.xml." />
+    <MESSAGE value="Ajustes&#10;&#10;1. Se ajusta el archivo .gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes&#10;&#10;1. Se ajusta el archivo .gitignore." />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576468548493">
@@ -118,41 +210,57 @@
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
     <state x="804" y="423" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468633282" />
-    <state width="1874" height="241" key="GridCell.Tab.0.bottom" timestamp="1576470108643">
+    <state x="321" y="40" width="1267" height="982" key="CommitChangelistDialog2" timestamp="1577767797814">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576470108643" />
-    <state width="1874" height="241" key="GridCell.Tab.0.center" timestamp="1576470108643">
+    <state x="321" y="40" width="1267" height="982" key="CommitChangelistDialog2/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767797814" />
+    <state x="743" y="289" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577757507787">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576470108643" />
-    <state width="1874" height="241" key="GridCell.Tab.0.left" timestamp="1576470108643">
+    <state x="743" y="289" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577757507787" />
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1577767307648">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576470108643" />
-    <state width="1874" height="241" key="GridCell.Tab.0.right" timestamp="1576470108643">
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767307648" />
+    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1577767307648">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="241" key="GridCell.Tab.0.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576470108643" />
-    <state width="1874" height="301" key="GridCell.Tab.1.bottom" timestamp="1576468419163">
+    <state width="1874" height="258" key="GridCell.Tab.0.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767307648" />
+    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1577767307648">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
-    <state width="1874" height="301" key="GridCell.Tab.1.center" timestamp="1576468419163">
+    <state width="1874" height="258" key="GridCell.Tab.0.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767307648" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1577767307648">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
-    <state width="1874" height="301" key="GridCell.Tab.1.left" timestamp="1576468419163">
+    <state width="1874" height="258" key="GridCell.Tab.0.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767307648" />
+    <state width="1874" height="258" key="GridCell.Tab.1.bottom" timestamp="1577767132098">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
-    <state width="1874" height="301" key="GridCell.Tab.1.right" timestamp="1576468419163">
+    <state width="1874" height="258" key="GridCell.Tab.1.bottom/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767132098" />
+    <state width="1874" height="258" key="GridCell.Tab.1.center" timestamp="1577767132098">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state width="1874" height="301" key="GridCell.Tab.1.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576468419163" />
+    <state width="1874" height="258" key="GridCell.Tab.1.center/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767132098" />
+    <state width="1874" height="258" key="GridCell.Tab.1.left" timestamp="1577767132098">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.1.left/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767132098" />
+    <state width="1874" height="258" key="GridCell.Tab.1.right" timestamp="1577767132098">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.1.right/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577767132098" />
     <state x="449" y="166" key="SettingsEditor" timestamp="1576469835760">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
     <state x="449" y="166" key="SettingsEditor/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1576469835760" />
+    <state x="555" y="263" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1577765208544">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="555" y="263" width="800" height="536" key="Vcs.Push.Dialog.v2/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577765208544" />
+    <state x="509" y="306" width="892" height="449" key="git4idea.merge.GitPullDialog" timestamp="1577764927266">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="509" y="306" width="892" height="449" key="git4idea.merge.GitPullDialog/0.27.1920.1010/1920.312.1366.768@0.27.1920.1010" timestamp="1577764927266" />
   </component>
 </project>

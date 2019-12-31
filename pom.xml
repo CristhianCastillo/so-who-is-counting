@@ -5,7 +5,7 @@
 
 	<groupId>com.kentaurus.counting</groupId>
 	<artifactId>so-who-is-counting</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>so-who-is-counting</name>
